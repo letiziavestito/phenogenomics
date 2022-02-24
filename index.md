@@ -1,6 +1,7 @@
 ## Rare Disease Day
 
-![Book logo](/least-github-pages/docs/assets/images/RARE_IS_MANY_Vasco.png)
+![](/least-github-pages/docs/assets/images/RARE_IS_MANY_Vasco.png)
+
 
 
 
