@@ -2,6 +2,9 @@
 
 ![](docs/assets/images/RARE_IS_MANY_Vasco.png)
 
+The Phenogenomics group at WHRI-QMUL is a small computational team with **many** collaborators.
+The Phenogenomics group at WHRI-QMUL has a **strong** will to contribute to Rare Disease research.
+The Phenogenomics group at WHRI-QMUL is **proud** of the impact of our work on the life of patients and families affected by rare disorders.
 
 
 
