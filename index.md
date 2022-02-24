@@ -1,6 +1,4 @@
-## Rare Disease Day
-
-![](docs/assets/images/Strapline Cards_ENGLISH.png)
+![](docs/assets/images/StraplineCards_ENGLISH.png)
 
 The Phenogenomics group at WHRI-QMUL is a small computational team with **many** collaborators.  
 
