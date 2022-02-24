@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Rare Disease Day
+
+![Book logo](/least-github-pages/docs/assets/images/RARE_IS_MANY_Vasco.png)
+
+
 
 You can use the [editor on GitHub](https://github.com/whri-phenogenomics/phenogenomics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
