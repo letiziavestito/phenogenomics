@@ -9,7 +9,7 @@ The Phenogenomics group at WHRI-QMUL is **proud** of the impact their work can h
   
 ### Our Projects
 - We have been playing a leading role in discovering **new rare disease genes** within the analysis of genomic data from the UK 100,000 Genomes Project
-- ...
+- We are reviewing the most up-to-date Variant Prioritisation software - a type of software which is useful to the diagnosis of rare diseases
 ### Our Contributions
 ...perhaps we can describe contributions into projects
 ### Our Collaborators
