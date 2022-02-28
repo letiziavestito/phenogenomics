@@ -4,15 +4,16 @@ The Phenogenomics group at WHRI-QMUL is a small computational team with **many**
 
 The Phenogenomics group at WHRI-QMUL has a **strong** will to contribute to Rare Disease research.  
 
-The Phenogenomics group at WHRI-QMUL is **proud** of the impact of our work on the life of patients and families affected by rare disorders.
+The Phenogenomics group at WHRI-QMUL is **proud** of the impact their work can have on the life of patients and families affected by rare disorders.
 
   
 ### Our Projects
-
+- We have been playing a leading role in discovering **new rare disease genes** within the analysis of genomic data from the UK 100,000 Genomes Project
+- ...
 ### Our Contributions
-
+...perhaps we can describe contributions into projects
 ### Our Collaborators
-
+...add links here? IMPC? 100KGP? etc.? 
 
 
 
