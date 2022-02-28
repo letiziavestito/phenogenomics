@@ -13,7 +13,11 @@ The Phenogenomics group at WHRI-QMUL is **proud** of the impact their work can h
 ### Our Contributions
 ...perhaps we can describe contributions into projects
 ### Our Collaborators
-...add links here? IMPC? 100KGP? etc.? 
+- [The 100,000 Genomes Project](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project)
+- [The Monarch Initiative](https://monarchinitiative.org/)
+- [The Human Phenotype Ontology](https://hpo.jax.org/app/)
+- [The International Mouse Phenotyping Consortium](https://www.mousephenotype.org/)
+
 
 
 
