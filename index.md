@@ -11,6 +11,7 @@ The Phenogenomics group at WHRI-QMUL is **proud** of the impact their work can h
 - ...Damian, can you add a sentence on Exomiser here?...refer to monarch and HPO too?...
 - We have been playing a leading role in **discovering new rare disease genes** within the analysis of genomic data from the UK 100,000 Genomes Project
 - We have been reviewing the most up-to-date variant prioritisation software - a type of software that can speed up the **genetic diagnosis** of rare diseases
+- We have been trying to **solve the unsolved** by developing tools to reanalyse unsolved rare disease cases for improved diagnostics and gene discovery
 
 ### Our Collaborators
 - [The 100,000 Genomes Project](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project)
